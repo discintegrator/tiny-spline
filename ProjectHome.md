@@ -1,0 +1,1 @@
+This project is conceived as an attempt to create an abstraction layer for interchanging of different 2D vector formats.
